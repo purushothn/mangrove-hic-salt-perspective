@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use these scripts or gene sets, please cite the associated Perspective and this archive."
+title: "Scripts and gene sets for 3D genome organization in Avicennia marina"
+authors:
+  - family-names: Natarajan
+    given-names: Purushothaman
+    email: pnatarajan@umes.edu
+    affiliation: "University of Maryland Eastern Shore"
+license: MIT

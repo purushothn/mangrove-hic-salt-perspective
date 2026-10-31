@@ -1,0 +1,9 @@
+*.fastq
+*.fastq.gz
+*.sra
+*.bam
+*.cool
+*.mcool
+*.pairs.gz
+tmp/
+__pycache__/

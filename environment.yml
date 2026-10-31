@@ -1,0 +1,15 @@
+name: hic
+channels: [conda-forge, bioconda]
+dependencies:
+  - python>=3.10
+  - bwa
+  - samtools
+  - sra-tools
+  - pigz
+  - pairtools
+  - cooler
+  - cooltools=0.7.1
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
