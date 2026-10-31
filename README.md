@@ -23,6 +23,6 @@ python scripts/hic_followup.py OUTDIR genesets [N_PERM] [COUNT_TABLE]
 Inputs: the raw reads from SRA, the genome FASTA and the GFF3 annotation, and the RNA-seq count table from Natarajan et al. (2021) for expression matching.
 
 ## Citation
-Natarajan P. (2026). Scripts and gene sets for 3D genome organization in *Avicennia marina*. Zenodo. DOI to be added.
+Natarajan P. (2026). Scripts and gene sets for 3D genome organization in *Avicennia marina*. Zenodo. DOI:10.5281/zenodo.23825794
 
 Contact: pnatarajan@umes.edu
