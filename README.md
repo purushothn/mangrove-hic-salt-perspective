@@ -33,6 +33,6 @@ Inputs: the raw reads from SRA, the genome FASTA and the GFF3 annotation, and th
 
 
 ## Citation
-Natarajan P. (2026). Scripts and gene sets for 3D genome organization in *Avicennia marina*. Zenodo. DOI:10.5281/zenodo.23825794
+Natarajan P. (2026). Scripts and gene sets for 3D genome organization in *Avicennia marina*. Zenodo. DOI:10.5281/zenodo.24510483
 
 Contact: pnatarajan@umes.edu
